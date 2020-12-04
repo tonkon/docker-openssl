@@ -5,8 +5,8 @@ OpenSSL 1.1.1g-r0 docker image based on alpine 3.12. Refers to Dockerfile
 docker pull tonkon/openssl:latest
 ```
 ## Tags
-* 1.1.1g-r0
 * latest
+* 1.1.1g-alpine
 ## Examples
 
 ### Create a Certificate in Local Directory
