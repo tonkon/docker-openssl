@@ -1,5 +1,7 @@
 # OpenSSL Docker Image on Alpine 3.12
-OpenSSL 1.1.1g-r0 docker image based on alpine 3.12. Refers to Dockerfile
+OpenSSL 1.1.1g-r0 docker image based on alpine 3.12. 
+- [Dockerfile](https://github.com/tonkon/docker-openssl/blob/main/Dockerfile)
+
 ## Pull Image
 ```bash
 docker pull tonkon/openssl:latest
